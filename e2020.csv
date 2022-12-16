@@ -1,8 +1,4 @@
-"Subnational electricity consumption, Great Britain, 2020",,,,,,,,,,,,,,,,,,,,,,,
-"This table shows the electricity consumption and the number of electric meters by local authority. Country/region totals are shown where the local authority is specified as ""All local authorities"". ",,,,,,,,,,,,,,,,,,,,,,,
-"Some consumption within given countries/regions could not be allocated to specific local authorities. This consumption is shown in the rows where ""Unallocated"" is specified in the local authority column.",,,,,,,,,,,,,,,,,,,,,,,
-"Freeze panes are active on this sheet. To turn off freeze panes select the 'View' ribbon then 'Freeze Panes' then 'Unfreeze Panes' or use [Alt W, F].",,,,,,,,,,,,,,,,,,,,,,,
-Code,Country or region,Local authority,"Number of meters
+Code,Country_or_region,Local authority,"Number of meters
 (thousands):
 Domestic Standard","Number of meters
 (thousands):
